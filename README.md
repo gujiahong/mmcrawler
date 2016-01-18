@@ -26,4 +26,4 @@ the following steps :<br>
 java -cp mmcrawler-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.framework.crawler.KaoLaCrawler 2000 20 false com.mama100.crawler.framework.repository.RedisRepository crawler.todo.high.163.kaola crawler.todo.low.163.kaola
 ```
 
-<br>Note: you can also references the com/mama100/crawler/framework/scripts.
+<br>Note: you can also references the <b>com/mama100/crawler/framework/scripts</b>.
