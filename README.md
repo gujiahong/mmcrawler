@@ -26,4 +26,17 @@ the following steps :<br>
 java -cp mmcrawler-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.framework.crawler.KaoLaCrawler 2000 20 false com.mama100.crawler.framework.repository.RedisRepository crawler.todo.high.163.kaola crawler.todo.low.163.kaola
 ```
 
-<br>Note: you can also references the <b>com/mama100/crawler/framework/scripts</b>.
+<br>Note: you can also references the <b>com/mama100/crawler/framework/scripts</b>.</br>
+
+<b>Further Feature</b></br>
+>1.support the distributed web crawler.</br>
+>2.dead seed url, and reuse solution.</br>
+>3.establish the ip proxy repo.</br>
+>4.monitor the web crawler's health.</br>
+>5.index the crawler's data.</br>
+
+<b>FeedBack</b></br>
+@Turner
+
+
+
