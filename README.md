@@ -33,7 +33,7 @@ java -cp mmcrawler-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.
 >2.establish the ip proxy repository.</br>
 >3.monitor the web crawler's health.</br>
 >4.index the crawler's data.</br>
->5.data process by NLP.
+>5.data mining by NLP.
 
 <b>FeedBack</b></br>
 @Me inside the github.com
