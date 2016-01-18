@@ -36,7 +36,7 @@ java -cp mmcrawler-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.
 >5.data process by NLP.
 
 <b>FeedBack</b></br>
-@Me inside the github.
+@Me inside the github.com
 
 
 
