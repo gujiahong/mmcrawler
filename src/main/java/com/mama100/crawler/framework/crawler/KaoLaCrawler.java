@@ -72,7 +72,6 @@ public class KaoLaCrawler extends BaseCrawler<KaoLaItemPage>{
 			.withRepository(Config.repository);
 		if(KaoLaConfig.isPreSetSeedUrl)kaoLaCrawler.withSeedUrl(KaoLaConfig.seedUrl);
 		kaoLaCrawler.start();
-			
 	}
 
 }
