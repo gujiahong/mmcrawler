@@ -14,3 +14,12 @@ the runtime arguments is about following :
 >6. redis low priority key.<br>
 
 Note: if url repository java class is <b>com.mama100.crawler.framework.repository.QueueRepository</b>,you dont need to specify the args of 5th and 6th.<br>
+
+<b>Run Apps</b></br>
+the following steps :<br>
+>0. ensure yout env, JDK1.7+
+>1. ues the maven to package the apps.</br>
+>2. in your linux/nt command line :</br>
+
+<b>ie:</b><br> 
+CMD#java -cp crawler-core-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.framework.crawler.KaoLaCrawler 2000 20 false com.mama100.crawler.framework.repository.RedisRepository crawler.todo.high.163.kaola crawler.todo.low.163.kaola
