@@ -17,7 +17,7 @@ Note: if url repository java class is <b>com.mama100.crawler.framework.repositor
 
 <b>Run Apps</b></br>
 the following steps :<br>
->0. ensure yout env, JDK1.7+
+>0. ensure your env, JDK1.7+
 >1. ues the maven to package the apps.</br>
 >2. in your linux/nt command line :</br>
 
@@ -30,7 +30,7 @@ java -cp mmcrawler-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.
 
 <b>Further Feature</b></br>
 >1.dead seed url, and reuse solution.</br>
->2.establish the ip proxy repo.</br>
+>2.establish the ip proxy repository.</br>
 >3.monitor the web crawler's health.</br>
 >4.index the crawler's data.</br>
 >5.data process by NLP.
