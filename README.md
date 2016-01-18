@@ -1,6 +1,6 @@
 # mmcrawler
 <b>Project Description</b></br>
-  mmcrawler is simple web crawler apps, it references the most common web crawler's idea and developing of it.It uses to parse     the html web page and get the web infomation that we need.In the apps,we can dynamicly specify the multiple params to run the    apps stabley, and look upon the demo template to program your own web parse rules.
+  mmcrawler is simple web crawler apps, it references the most common web crawler's idea and developing of it.It uses to parse     the html web page and get the web infomation that we need.In the apps,we can dynamicly specify the multiple params to run the    apps stabley, also support the distributed environment, and you can program your own web parse rules by yourself.
   
 <b>Apps Usage</b></br>
 for example, the demo locates in : <b>com.mama100.crawler.framework.crawler.KaoLaCrawler</b><br>
@@ -29,11 +29,11 @@ java -cp mmcrawler-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.mama100.crawler.
 <br>Note: you can also references the <b>com/mama100/crawler/framework/scripts</b>.</br>
 
 <b>Further Feature</b></br>
->1.support the distributed web crawler.</br>
->2.dead seed url, and reuse solution.</br>
->3.establish the ip proxy repo.</br>
->4.monitor the web crawler's health.</br>
->5.index the crawler's data.</br>
+>1.dead seed url, and reuse solution.</br>
+>2.establish the ip proxy repo.</br>
+>3.monitor the web crawler's health.</br>
+>4.index the crawler's data.</br>
+>5.data process by NLP.
 
 <b>FeedBack</b></br>
 @Me inside the github.
