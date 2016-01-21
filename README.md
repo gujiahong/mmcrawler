@@ -18,7 +18,7 @@ the runtime arguments is about following :
 <b>Run Apps</b></br>
 the following steps :<br>
 >0. ensure your env, JDK1.7+
->1. ues the maven to package the apps.</br>
+>1. uses the maven to package the apps.</br>
 >2. in your linux/nt command line :</br>
 
 <b>ie:</b><br> 
